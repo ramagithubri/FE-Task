@@ -1,6 +1,14 @@
 # FE-Task: Task Annotation App 🚀
 
+**Live Demo:** [Click here to view the live app (Placeholder)](https://yourproject.vercel.app)
+
 Welcome to the Task Annotation Application! This frontend project is built with Next.js, Redux Toolkit, and Tailwind CSS to manage and annotate a live feed of tasks.
+
+## 📸 Screenshots
+
+*(Replace these with actual links to your screenshots)*
+- 📷 [Activity Console View](#)
+- 📷 [AI Summary Streaming View](#)
 
 ## ✨ Features
 
